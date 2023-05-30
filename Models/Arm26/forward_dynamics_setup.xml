@@ -70,7 +70,7 @@
 			<objects>
 				<ControlSetController name="controlsetcontroller">
 					<!--A Storage (.sto) or an XML control nodes file containing the controls for this controlSet.-->
-					<controls_file>arm_excitation.sto</controls_file>
+					<controls_file>hybrid-cpg_excitation.sto</controls_file>
 				</ControlSetController>
 			</objects>
 			<groups />
